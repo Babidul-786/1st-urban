@@ -220,9 +220,11 @@
         font-size: 17px;
     }
 
-    .banner{    
-        width: 100%; 
+    .banner{
+        width: 100%;
+        top: 38%;
     }
+    
 
     .banner p{
         line-height: 21px;
