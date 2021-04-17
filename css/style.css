@@ -203,7 +203,79 @@
         margin-bottom: 20px;
         
     }
-
 }
+
+/* now starts mobile reponsive */
+@media only screen and (max-width:500px){
+    .big-wrapper h3{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .navigation a{
+        font-size: 17px;
+    }
+
+    .banner{    
+        width: 100%;
+        top: 25%;
+    }
+
+    .banner p{
+        line-height: 21px;
+        font-weight: 200;
+        margin-top: 8px;
+        margin-bottom: 10px;
+        font-size: 17px;
+        letter-spacing: 2px;
+        padding: 0px 7px;
+    }
+    .banner h1{
+        font-weight: 400;    
+       margin-left: 70px;
+       font-size: 27px;
+    }
+    .wrapper img{
+        width: 75%;
+    }
+    
+    .wrapper .para1 h3{
+        color: gray;
+        font-size: 26px;
+    }
+   
+    .third-section h3{
+        color: lightgrey;
+        font-size: 26px;
+    }
+    .third-section .para2 p{
+        line-height: 23px;
+        padding: 10px 0px;
+        font-size: 15px;
+    }
+    .third-section img{
+        width:100%; 
+    }
+
+    .img-section img{
+        width: 70%;
+        margin-left: 15%;
+    }
+    .img-section .three-button{
+        margin-left: 36%;
+        margin-bottom: 20px;
+        
+    }
+    .footer .fa{
+        color:lightslategray;
+    }
+    .footer p{
+        font-size: 18px;
+        color: royalblue;
+        padding: 0px 10px;
+    }
+}
+
+
+
 
 /* The Ends */
