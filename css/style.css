@@ -221,8 +221,7 @@
     }
 
     .banner{    
-        width: 100%;
-        top: 30%;
+        width: 100%; 
     }
 
     .banner p{
@@ -279,8 +278,5 @@
         padding: 0px 10px;
     }
 }
-
-
-
 
 /* The Ends */
