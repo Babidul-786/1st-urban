@@ -222,6 +222,7 @@
 
     .banner{    
         width: 100%; 
+        top: 50%;
     }
 
     .banner p{
